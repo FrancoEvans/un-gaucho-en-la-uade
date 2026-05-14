@@ -21,3 +21,4 @@
 # Actualizaciones del Git
 
  19/03/2026 - Trabajo Práctico TDAs - Pilas y Colas
+ 14/05/2026 - Trabajo Práctico Costos 
