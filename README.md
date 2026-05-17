@@ -22,3 +22,4 @@
 
 * 14/05/2026 - Trabajo Práctico Costos
 * 16/05/2026 - Actividad 2
+* 17/05/2026 - Guía TPs Clase 3
