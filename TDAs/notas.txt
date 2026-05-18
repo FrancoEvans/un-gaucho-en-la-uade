@@ -1,0 +1,23 @@
+COLA
+    Atributos:
+        String[] elementos -> donde se almacenan
+        int primero -> el que sale
+        int ultimo -> donde entran nuevos
+        int cantidad -> cantidad total
+    Metodos:
+        agregar(String elemento) -> void
+        (X) eliminar(String elemento) -> void
+        sacar() -> String
+        primero() -> String
+        colaVacia() -> boolean
+
+DICCIONARIO SIMPLE
+    Atributos:
+        String[] claves
+        String[] valores
+        int cantidad
+    Metodos:
+        put(String clave, String valor) -> void
+        get(String clave) -> String valor
+        delete(String clave) -> void
+
