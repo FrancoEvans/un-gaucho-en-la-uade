@@ -12,14 +12,7 @@
 * Dante Borgoglio
 <img width="82" height="106" alt="image" src="https://github.com/user-attachments/assets/73db0bf0-ff16-4ad7-89fb-7b6f1e290c9d" />
 
-* Martiniano Adan
-<img width="103" height="103" alt="image" src="https://github.com/user-attachments/assets/99f5f1c6-0909-4c19-b69b-39ad4d178a19" />
-
 * Pesqueira Lucas
 <img width="103" height="103" alt="image" src="https://github.com/user-attachments/assets/e3838ebb-475a-4c31-81e6-d3afca1ea582" />
 
-# Actualizaciones del Git
 
-* 14/05/2026 - Trabajo Práctico Costos
-* 16/05/2026 - Actividad 2
-* 17/05/2026 - Guía TPs Clase 3
